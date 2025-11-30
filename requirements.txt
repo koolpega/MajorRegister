@@ -1,4 +1,4 @@
 Flask==3.1.2
 firebase-admin==7.1.0
 pycryptodome==3.23.0
-protobuf==6.33.1
+protobuf==5.29.5
